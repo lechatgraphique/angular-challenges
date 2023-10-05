@@ -24,7 +24,7 @@ import { ListItemComponent } from '../../ui/list-item/list-item.component';
         {{ teacher.firstname }} - {{ teacher.lastname }}
       </app-list-item>
     </ng-template>
-  </app-card>`,
+  </app-card> `,
   standalone: true,
   styles: [
     `
